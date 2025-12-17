@@ -342,4 +342,7 @@ This project is created for educational purposes.
 
 ---
 
-**Built with ❤️ for university students** | EventHub - Your Event Planning Solution
+**Built with ❤️ for university students** | EventHub - Your Event Planning Solution.
+
+This project was developed as part of a full-stack MERN application assignment.
+
